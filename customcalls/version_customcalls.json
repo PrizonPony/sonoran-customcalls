@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "check_url": "https://github.com/PrizonPony/sonoran-customcalls/master/callcommands/version_callcommands.json",
+    "check_url": "https://github.com/PrizonPony/sonoran-customcalls/customcalls/version_callcommands.json",
     "download_url": "https://github.com/PrizonPony/sonoran-customcalls/",
     "minCoreVersion": "2.8.10",
     "configVersion": "1.0",
